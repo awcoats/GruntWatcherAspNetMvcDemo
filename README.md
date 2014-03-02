@@ -6,3 +6,14 @@ This allows you to keep multiple browsers open, make a change to a file (and sav
 
 More complete details can be found [here](
 http://justinklemm.com/grunt-watch-livereload-javascript-less-sass-compilation/)
+
+---
+## To use ##
+
+1. Ensure you have Node installed.
+2. Open a command console and type
+    ''grunt watch''
+3. Open the .sln, and press F5 to run.
+4. Make a change to a *.chtml file. 
+5. The console app should show a file was changed and the browser refresh.
+
